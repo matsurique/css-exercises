@@ -4,13 +4,12 @@
 }
 #second {
     color: #065cc5;
-    font-size: 24px;
+    font-size: 36px;
 }
-.odd-numbered.cooler {
+.font-size {
     font-size: 24px;
 }
 #fourth {
     background-color: #67b16b;
-    font-size: 24px;
     font-weight: bold;
 }
